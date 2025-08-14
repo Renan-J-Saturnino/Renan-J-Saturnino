@@ -49,4 +49,4 @@ Tenho interesse especial em desenvolvimento **back-end** e integração de siste
 💡 *Sempre em busca de aprender algo novo e transformar ideias em soluções.*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-J-Saturnino&theme=transparent)](https://github.com/PRO-Renan-Saturnino/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-J-Saturnino&layout=compact)](https://github.com/PRO-Renan-Saturnino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-J-Saturnino&layout=compact&theme=transparent)](https://github.com/PRO-Renan-Saturnino/github-readme-stats)
