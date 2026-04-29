@@ -33,6 +33,7 @@ Tenho interesse especial em desenvolvimento **back-end** e integração de siste
 ---
 
 ## 📌 Projetos em Destaque
+- **JS---React** - Repositório para prática e aperfeiçoamento de JavaScript e React. Onde faço sites para resolver problemas que enfrento cotidianamente.
 - **SGTST** – Sistema de Gestão de Transporte e Segurança para Transportadora  
   CRUDs completos, sensores via Arduino, salvamento em arquivos `.txt` e integração futura.
 - **TranSecurity** – Sistema para controle de galpões e saídas de caminhões  
