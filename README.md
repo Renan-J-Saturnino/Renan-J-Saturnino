@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 Sou apaixonado por tecnologia e programação, com experiência em **Java**, **Python** e **HTML**.  
-Tenho interesse especial em desenvolvimento **back-end** e integração de sistemas, mas também exploro o **front-end** para criar soluções completas.
+Tenho interesse especial em desenvolvimento **front-end** e integração de sistemas, mas também exploro o **back-end** para criar soluções completas.
 
 - 🎓 Atualmente desenvolvendo projetos acadêmicos e pessoais
 - ⚙️ Experiência com **Spring Boot** e **React**
