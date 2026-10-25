@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Renan Joaquim
 
-💻 **Desenvolvedor Full Stack em formação** | 🎯 Foco em boas práticas e padrões de mercado  
-📍 Brasil | 📚 Aprendendo e construindo projetos práticos  
+💻 **Desenvolvedor Full Stack em formação** | 🎯 Foco em boas práticas e Resoluções de problemas
+📍 Brasil |
 
 ---
 
